@@ -1,0 +1,21 @@
+.open-sans {
+    font-family: "Open Sans";
+    font-size: 20px;
+    line-height: 30px;
+}
+.lt {
+    text-decoration: line-through;
+}
+.capsc {
+    text-align: center;
+    text-transform: uppercase;
+}
+.upp {
+    text-decoration: overline wavy;
+    word-spacing: 30px;
+    color: rgb(47, 0, 92);
+}
+.low {
+    text-decoration: underline double;
+    letter-spacing: 5px;
+}
